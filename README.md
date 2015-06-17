@@ -7,7 +7,7 @@ It can include all the government schemes (like scholarships and subsidy) and al
 Also, the main focus is on providing CASHLESS and CARDLESS payments by biometric and uid/username authentication at various outlets. NO MORE CARRYING CASH/CARD. Automatic transaction from the wallet can be done through this.
 
 #Presentation
-[Aadhaarpay-Centralized paperles payment](https://www.youtube.com/watch?v=RJQR29KoPXE)
+[Aadhaarpay-Centralized paperless payment](https://www.youtube.com/watch?v=RJQR29KoPXE)
 
 
 
